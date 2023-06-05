@@ -1,6 +1,6 @@
 # This small app works in the Goerli test network only
 
-to start using it you need the following:
+To start using it you need the following:
 
 ## Create `.env` file with next lines:
 
@@ -8,9 +8,9 @@ to start using it you need the following:
 `REACT_APP_INFURA_PROJECT_ID=''`
 `REACT_APP_ETHERSCAN_API_KEY=''`
 
-### `yarn` to instal dependencies
+##### `yarn` to instal dependencies
 
-#### 'yarn start` to start server
+##### `yarn start` to start server
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -24,7 +24,7 @@ Tests are ready only for a few components for an example
 
 - This is SPA, with no routing but with a conditional rendering of the components. Not the best choice but for this architecture it's ok.
 
-# If this app was a commercial development I would add:
+###### If this app was a commercial development I would add:
 
 - pagination
 - more validation for inputs
